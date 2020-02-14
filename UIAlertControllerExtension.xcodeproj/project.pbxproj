@@ -50,7 +50,6 @@
 		6716C72223E5803400678291 /* String+LocalizeBundle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+LocalizeBundle.swift"; sourceTree = "<group>"; };
 		6716C72323E5803400678291 /* String+LocalizedBundleTableName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+LocalizedBundleTableName.swift"; sourceTree = "<group>"; };
 		6716C72C23ED676800678291 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
-		6716C72F23F4271B00678291 /* Alertable */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Alertable; sourceTree = "<group>"; };
 		67F51C3C23E46CA0008E0733 /* UIAlertControllerExtension.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIAlertControllerExtension.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67F51C3F23E46CA0008E0733 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		67F51C4123E46CA0008E0733 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -125,7 +124,6 @@
 		67F51C3323E46CA0008E0733 = {
 			isa = PBXGroup;
 			children = (
-				6716C72F23F4271B00678291 /* Alertable */,
 				67F51C3E23E46CA0008E0733 /* UIAlertControllerExtension */,
 				67F51C5523E46CA2008E0733 /* UIAlertControllerExtensionTests */,
 				67F51C3D23E46CA0008E0733 /* Products */,

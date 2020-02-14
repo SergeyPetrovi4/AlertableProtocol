@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6716C72423E5803400678291 /* LanguageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6716C71423E5803300678291 /* LanguageManager.swift */; };
+		6716C72523E5803400678291 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6716C71623E5803400678291 /* Localizable.strings */; };
+		6716C72623E5803400678291 /* Localizable.strings.orig in Resources */ = {isa = PBXBuildFile; fileRef = 6716C71823E5803400678291 /* Localizable.strings.orig */; };
+		6716C72723E5803400678291 /* String+LocalizeTableName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6716C71F23E5803400678291 /* String+LocalizeTableName.swift */; };
+		6716C72823E5803400678291 /* Localize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6716C72023E5803400678291 /* Localize.swift */; };
+		6716C72923E5803400678291 /* String+LocalizedBundleTableName.swift.orig in Resources */ = {isa = PBXBuildFile; fileRef = 6716C72123E5803400678291 /* String+LocalizedBundleTableName.swift.orig */; };
+		6716C72A23E5803400678291 /* String+LocalizeBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6716C72223E5803400678291 /* String+LocalizeBundle.swift */; };
+		6716C72B23E5803400678291 /* String+LocalizedBundleTableName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6716C72323E5803400678291 /* String+LocalizedBundleTableName.swift */; };
+		6716C72D23ED676800678291 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6716C72C23ED676800678291 /* SecondViewController.swift */; };
 		67F51C4023E46CA0008E0733 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F51C3F23E46CA0008E0733 /* AppDelegate.swift */; };
 		67F51C4223E46CA0008E0733 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F51C4123E46CA0008E0733 /* SceneDelegate.swift */; };
 		67F51C4423E46CA0008E0733 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F51C4323E46CA0008E0733 /* ViewController.swift */; };
@@ -14,6 +23,7 @@
 		67F51C4923E46CA2008E0733 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67F51C4823E46CA2008E0733 /* Assets.xcassets */; };
 		67F51C4C23E46CA2008E0733 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67F51C4A23E46CA2008E0733 /* LaunchScreen.storyboard */; };
 		67F51C5723E46CA2008E0733 /* UIAlertControllerExtensionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F51C5623E46CA2008E0733 /* UIAlertControllerExtensionTests.swift */; };
+		67F51C6723E46D71008E0733 /* AlertableProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F51C6623E46D71008E0733 /* AlertableProtocol.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +37,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6716C71423E5803300678291 /* LanguageManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LanguageManager.swift; sourceTree = "<group>"; };
+		6716C71723E5803400678291 /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/Localizable.strings; sourceTree = "<group>"; };
+		6716C71923E5803400678291 /* he */ = {isa = PBXFileReference; lastKnownFileType = text; name = he; path = he.lproj/Localizable.strings.orig; sourceTree = "<group>"; };
+		6716C71A23E5803400678291 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		6716C71B23E5803400678291 /* en */ = {isa = PBXFileReference; lastKnownFileType = text; name = en; path = en.lproj/Localizable.strings.orig; sourceTree = "<group>"; };
+		6716C71C23E5803400678291 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
+		6716C71D23E5803400678291 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text; name = uk; path = uk.lproj/Localizable.strings.orig; sourceTree = "<group>"; };
+		6716C71F23E5803400678291 /* String+LocalizeTableName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+LocalizeTableName.swift"; sourceTree = "<group>"; };
+		6716C72023E5803400678291 /* Localize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Localize.swift; sourceTree = "<group>"; };
+		6716C72123E5803400678291 /* String+LocalizedBundleTableName.swift.orig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "String+LocalizedBundleTableName.swift.orig"; sourceTree = "<group>"; };
+		6716C72223E5803400678291 /* String+LocalizeBundle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+LocalizeBundle.swift"; sourceTree = "<group>"; };
+		6716C72323E5803400678291 /* String+LocalizedBundleTableName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+LocalizedBundleTableName.swift"; sourceTree = "<group>"; };
+		6716C72C23ED676800678291 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		6716C72F23F4271B00678291 /* Alertable */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Alertable; sourceTree = "<group>"; };
 		67F51C3C23E46CA0008E0733 /* UIAlertControllerExtension.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIAlertControllerExtension.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67F51C3F23E46CA0008E0733 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		67F51C4123E46CA0008E0733 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -38,6 +62,7 @@
 		67F51C5223E46CA2008E0733 /* UIAlertControllerExtensionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIAlertControllerExtensionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		67F51C5623E46CA2008E0733 /* UIAlertControllerExtensionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIAlertControllerExtensionTests.swift; sourceTree = "<group>"; };
 		67F51C5823E46CA2008E0733 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		67F51C6623E46D71008E0733 /* AlertableProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertableProtocol.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,9 +83,49 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6716C71223E5802200678291 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				6716C71323E5803300678291 /* Localization */,
+			);
+			path = Libraries;
+			sourceTree = "<group>";
+		};
+		6716C71323E5803300678291 /* Localization */ = {
+			isa = PBXGroup;
+			children = (
+				6716C71423E5803300678291 /* LanguageManager.swift */,
+				6716C71523E5803300678291 /* Localizations */,
+				6716C71E23E5803400678291 /* Localize */,
+			);
+			path = Localization;
+			sourceTree = "<group>";
+		};
+		6716C71523E5803300678291 /* Localizations */ = {
+			isa = PBXGroup;
+			children = (
+				6716C71623E5803400678291 /* Localizable.strings */,
+				6716C71823E5803400678291 /* Localizable.strings.orig */,
+			);
+			path = Localizations;
+			sourceTree = "<group>";
+		};
+		6716C71E23E5803400678291 /* Localize */ = {
+			isa = PBXGroup;
+			children = (
+				6716C71F23E5803400678291 /* String+LocalizeTableName.swift */,
+				6716C72023E5803400678291 /* Localize.swift */,
+				6716C72123E5803400678291 /* String+LocalizedBundleTableName.swift.orig */,
+				6716C72223E5803400678291 /* String+LocalizeBundle.swift */,
+				6716C72323E5803400678291 /* String+LocalizedBundleTableName.swift */,
+			);
+			path = Localize;
+			sourceTree = "<group>";
+		};
 		67F51C3323E46CA0008E0733 = {
 			isa = PBXGroup;
 			children = (
+				6716C72F23F4271B00678291 /* Alertable */,
 				67F51C3E23E46CA0008E0733 /* UIAlertControllerExtension */,
 				67F51C5523E46CA2008E0733 /* UIAlertControllerExtensionTests */,
 				67F51C3D23E46CA0008E0733 /* Products */,
@@ -79,13 +144,12 @@
 		67F51C3E23E46CA0008E0733 /* UIAlertControllerExtension */ = {
 			isa = PBXGroup;
 			children = (
-				67F51C3F23E46CA0008E0733 /* AppDelegate.swift */,
-				67F51C4123E46CA0008E0733 /* SceneDelegate.swift */,
-				67F51C4323E46CA0008E0733 /* ViewController.swift */,
-				67F51C4523E46CA0008E0733 /* Main.storyboard */,
-				67F51C4823E46CA2008E0733 /* Assets.xcassets */,
-				67F51C4A23E46CA2008E0733 /* LaunchScreen.storyboard */,
-				67F51C4D23E46CA2008E0733 /* Info.plist */,
+				67F51C6523E46D42008E0733 /* Extension */,
+				67F51C6123E46CB1008E0733 /* Application */,
+				67F51C6223E46CC8008E0733 /* Storyboard */,
+				67F51C6423E46CF6008E0733 /* ViewControllers */,
+				6716C71223E5802200678291 /* Libraries */,
+				67F51C6323E46CE0008E0733 /* Resources */,
 			);
 			path = UIAlertControllerExtension;
 			sourceTree = "<group>";
@@ -97,6 +161,50 @@
 				67F51C5823E46CA2008E0733 /* Info.plist */,
 			);
 			path = UIAlertControllerExtensionTests;
+			sourceTree = "<group>";
+		};
+		67F51C6123E46CB1008E0733 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				67F51C3F23E46CA0008E0733 /* AppDelegate.swift */,
+				67F51C4123E46CA0008E0733 /* SceneDelegate.swift */,
+				67F51C4D23E46CA2008E0733 /* Info.plist */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		67F51C6223E46CC8008E0733 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				67F51C4523E46CA0008E0733 /* Main.storyboard */,
+				67F51C4A23E46CA2008E0733 /* LaunchScreen.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		67F51C6323E46CE0008E0733 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				67F51C4823E46CA2008E0733 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		67F51C6423E46CF6008E0733 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				67F51C4323E46CA0008E0733 /* ViewController.swift */,
+				6716C72C23ED676800678291 /* SecondViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		67F51C6523E46D42008E0733 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				67F51C6623E46D71008E0733 /* AlertableProtocol.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +271,8 @@
 			knownRegions = (
 				en,
 				Base,
+				he,
+				uk,
 			);
 			mainGroup = 67F51C3323E46CA0008E0733;
 			productRefGroup = 67F51C3D23E46CA0008E0733 /* Products */;
@@ -180,9 +290,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6716C72923E5803400678291 /* String+LocalizedBundleTableName.swift.orig in Resources */,
 				67F51C4C23E46CA2008E0733 /* LaunchScreen.storyboard in Resources */,
+				6716C72523E5803400678291 /* Localizable.strings in Resources */,
 				67F51C4923E46CA2008E0733 /* Assets.xcassets in Resources */,
 				67F51C4723E46CA0008E0733 /* Main.storyboard in Resources */,
+				6716C72623E5803400678291 /* Localizable.strings.orig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -200,9 +313,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				67F51C6723E46D71008E0733 /* AlertableProtocol.swift in Sources */,
 				67F51C4423E46CA0008E0733 /* ViewController.swift in Sources */,
+				6716C72B23E5803400678291 /* String+LocalizedBundleTableName.swift in Sources */,
 				67F51C4023E46CA0008E0733 /* AppDelegate.swift in Sources */,
 				67F51C4223E46CA0008E0733 /* SceneDelegate.swift in Sources */,
+				6716C72423E5803400678291 /* LanguageManager.swift in Sources */,
+				6716C72A23E5803400678291 /* String+LocalizeBundle.swift in Sources */,
+				6716C72723E5803400678291 /* String+LocalizeTableName.swift in Sources */,
+				6716C72D23ED676800678291 /* SecondViewController.swift in Sources */,
+				6716C72823E5803400678291 /* Localize.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,6 +345,26 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		6716C71623E5803400678291 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6716C71723E5803400678291 /* he */,
+				6716C71A23E5803400678291 /* en */,
+				6716C71C23E5803400678291 /* uk */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		6716C71823E5803400678291 /* Localizable.strings.orig */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6716C71923E5803400678291 /* he */,
+				6716C71B23E5803400678291 /* en */,
+				6716C71D23E5803400678291 /* uk */,
+			);
+			name = Localizable.strings.orig;
+			sourceTree = "<group>";
+		};
 		67F51C4523E46CA0008E0733 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -362,9 +502,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = UIAlertControllerExtension/UIAlertControllerExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2K3J9PFDL3;
-				INFOPLIST_FILE = UIAlertControllerExtension/Info.plist;
+				INFOPLIST_FILE = UIAlertControllerExtension/Application/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -380,9 +521,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = UIAlertControllerExtension/UIAlertControllerExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2K3J9PFDL3;
-				INFOPLIST_FILE = UIAlertControllerExtension/Info.plist;
+				INFOPLIST_FILE = UIAlertControllerExtension/Application/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

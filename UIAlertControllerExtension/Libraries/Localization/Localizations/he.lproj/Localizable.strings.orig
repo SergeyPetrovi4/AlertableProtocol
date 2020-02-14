@@ -1,0 +1,1161 @@
+/* 
+  Localizable.strings
+  MOEStudents
+
+  Created by Sergey Krasiuk on 28/05/2017.
+  Copyright © 2017 IdeoDigital. All rights reserved.
+*/
+
+// MARK: - Splash Screen
+"Networking Problem" = "בעיית תקשורת";
+"There was a Problem with the Communication" = "הייתה בעיית תקשורת, אנא שפר קליטה ונסה שנית";
+"Try Again" = "נסה שנית";
+
+// MARK: - Logout Alert
+
+"LogoutAlertBody" = "האם ברצונך להתנתק מהאזור האישי?";
+"LogoutAlertTitle" = "התנתק";
+// MARK: - Login screen
+
+"goodmorning" = "בוקר טוב";
+"goodnoon" = "צהריים טובים";
+"goodafternoon" = "צהריים טובים";
+"goodevening" = "ערב טוב";
+"goodnight" = "לילה טוב";
+
+"loginToYourPersonalAccount" = "כניסה לחשבון האישי";
+"scheduleAQuickQueue" = "זימון תור מהיר";
+
+"LocatingServices" = "איתור שירותים";
+<<<<<<< HEAD
+"additionalToolsPhoneTitle" = "מוקד מאוחדת";
+=======
+"What Service Do You Need" = "איזה שירות אתם צריכים?";
+"additionalToolsPhoneTitle" = "מוקד מאוחדת";
+"New" = "חדש!";
+"Video Conference Appointment" = "ביקור דיגיטלי בשיחת וידאו";
+>>>>>>> feature/AmericanWell
+
+// MARK: - Additional tools
+
+"assisted_living" = "דיור מוגן";
+"blood_taking_points" = "נקודות לקיחת דם";
+"clinics" = "מרפאות";
+"complementary_medicine_clinics" = "מרפאות רפואה משלימה";
+"dental_clinics" = "מרפאות שיניים";
+"emergency_centers" = "מוקדי חירום";
+"kids_clinics" = "טיפת\nחלב";
+
+"institutes" = "מכונים";
+"kids_clinics" = "טיפת חלב";
+"pharmacies" = "בתי מרקחת";
+"Therapists" = "מטפלים";
+// MARK: - Tabbar
+
+"lobby" = "מאוחדת שלי";
+"settings" = "הגדרות";
+"secretariat" = "מזכירות";
+"search" = "איתור שירותים";
+
+// MARK: - Tabbar Buttons
+
+"newQueue" = "זימון תור חדש";
+"callToDoctor" = "פנייה לרופא שלי";
+"laboratoryResults" = "תוצאות בדיקות\nאחרונות";
+
+// MARK: - Appointments
+
+<<<<<<< HEAD
+"Surgeons" = "מנתחים במאוחדת";
+"BasketTreatments" = "שרותים במאוחדת";
+"Treatment" = "טיפול";
+"SurgeryCodes" = "קודי ניתוחים";
+"No Surgeries Found" = "לא נמצאו ניתוחים";
+"No Treatments Found" = "לא נמצאו טיפולים";
+"TreatmentField" = "תחום";
+"SubTreatmentField" = "תת תחום";
+"MainCliniclocation" = "מרפאה מרכזית";
+"MBRCode" = "קוד משרד הבריאות";
+"TreatmentsProviders" = "ספקי שירות";
+
+//"appointmentTitle" = "תורים וביקורים";
+"appointmentTitle" = "התורים שלי";
+"VisitAt" = "ביקור ב";
+"at" = "ב";
+
+"addNewAppointment" = "זימון תור חדש";
+"getAppointment" = "זימון תור";
+=======
+//"appointmentTitle" = "תורים וביקורים";
+
+"iAgreed" = "קראתי והבנתי את התנאים והם מקובלים עליי";
+"agreeTermsAndOrderAppointment" = "זימון תור";
+"agreeAndOrderAppointment" = "אישור והמשך לזימון תור";
+"appointmentTitle" = "התורים שלי";
+"VisitAt" = "";
+"at" = "ב";
+
+"labsServicesAppointment" = "תור לשירותי מעבדה";
+"Meuhedet Health Services - appointment to" = "קופ\"ח מאוחדת - תור ל";
+"MeuhedetHealthServices - digital appointment to" = "קופ\"ח מאוחדת - תור דיגיטלי ל";
+"addNewAppointment" = "זימון תור חדש";
+"getAppointment" = "זימון תור";
+"getClinicAppointment" = "תור במרפאה";
+"getVideoAppointment" = "שיחת וידאו";
+"VideoAppointment" = "ביקור דיגיטלי";
+"VideoAppointmentWeb" = "ביקור דיגיטלי במחשב";
+"firstAvailableAppointmentVideoTitle" = "התור הראשון הפנוי";
+"firstAvailableClinicAppointment" = "התור הראשון הפנוי";
+"VideoAppointmentMobile" = "ביקור דיגיטלי באפליקציה";
+"Clinic Visit" = "ביקור במרפאה";
+"orderAppointment" = "זימון תור";
+"noOptionSelected" = "לצורך הוספת תזכורת חובה לבחור לפחות אפשרות אחת";
+"noPhoneNumberEntered" = "לא הוקלד מספר טלפון לתזכורת ב-SMS";
+"noEmailEntered" = "לא הוקלדה כתובת לתזכורת בדואר אלקטרוני";
+"noReminderDateEntered" = "לא הוקלדו שעת ותאריך תזכורת";
+
+//MARK:- External Appointments.
+"Preliminary Questionnaire for Determining the Queue" = "שאלון מקדים לקביעת התור";
+"No Dates where Detected for Determine of an Appointment" = "לא אותרו מועדים אפשריים לקביעת התור לרופא";
+"Thank you, we have scheduled an appointment" = "תודה - קבענו עבורך תור במועד שבחרת";
+"Determining the Queue" = "קביעת התור";
+"ShortExplanationOnTheProcess" = "הסבר קצר על התהליך:\nעל מנת להתאים את זמן הרופא לצורך הרפואי\nעליך להשיב על מספר שאלות\n\n";
+"ChoosenvirtualVisit" = "בחרת לקבוע תור מקוון";
+"InputVirtualVisitDetails" = "אנא הזן פרטים לתור דיגיטלי";
+"AppointmentsForDate" = "תורים לתאריך :";
+>>>>>>> feature/AmericanWell
+
+"toolAddNewAppointment" = "זימון תור חדש";
+"toolExchangeAppointment" = "שינוי תור";
+"toolRemindAppointment" = "הוספת תזכורת";
+"toolCancelAppointment" = "ביטול תור";
+
+"AppointmentVisitDateTitle" = "תאריך תור:";
+"AppointmentVisitTimeTitle" = "שעת ביקור:";
+<<<<<<< HEAD
+"AppointmentWaitingDateTitle" = "טווח תאריכים שנתבקשו:";
+=======
+"AppointmentWaitingDateTitle" = ":טווח תאריכים שנתבקשו";
+>>>>>>> feature/AmericanWell
+
+"FutureAppointments" = "תורים שהוזמנו";
+"WaitingAppointments" = "רשימת המתנה";
+"PastAppointments" = "ביקורים אחרונים";
+
+"NoRecentVisitsWasFound" = "לא מצאנו תורים אחרונים";
+"AppointmentWasCanceledSuccessfull" = "התור בוטל בהצלחה";
+"AppointmentWasCanceledNotSuccessfull" = "ביטול התור נכשל, אנא נסה שנית, או פנה למוקד שירות הלקוחות";
+"Phone" = "טלפון";
+"Directions" = "הוראות הגעה";
+"No Results Found" = "לא מצאנו תוצאות";
+"inHour %@" = "בשעה %@";
+"VisitHourTitle" = "תאריך ביקור";
+
+"AppointmentServiceTitle" = "מומחיות:";
+"AppointmentSpecializationTitle" = "תחום שרות:";
+<<<<<<< HEAD
+
+"AppointmentChangeHeaderTitle" = "רופא מחליף";
+"AppointmentGeneralHeaderTitle" = "הערות כלליות";
+
+"CancelOrderedAppointment" = "ביטול תור";
+"FoundAppointmentsForProvider" = "נמצאו %@ מרפאות";
+"FoundTreatmentsProviders" = "נמצאו %@ ספקי שירות";
+
+// MARK: - Calendar
+"When is it convenient to schedule an appointment" = "מתי נוח לך לקבוע תור?";
+=======
+"AppointmentRoomTitle" = "הכנה לביקור";
+"WaitingRoomTitle" = "חדר הביקור";
+"WaitingRoomMainTitle" = "חדר המתנה";
+
+"AppointmentChangeHeaderTitle" = "רופא מחליף";
+"AppointmentGeneralHeaderTitle" = "הערות כלליות";
+"NoReamrksForAppointment" = "אין הערות לזימון התור";
+
+"CancelOrderedAppointment" = "ביטול תור";
+"ChangeOrderedAppointment" = "שינוי תור";
+"ImportentMassage" = "הודעה חשובה";
+"RedinessNotChecked" = "זומן תור וידאו לביצוע בפלטפורמת מחשב וטרם בוצעה בדיקת תאימות עבור התור";
+"WrongPlatformTitle" = "שגיאת פלטפורמה";
+"WrongPlatformBody" = "בחרת לקיים את הביקור הדיגיטלי במחשב. אנחנו מחכים לך שם.";
+"FoundAppointmentsForProvider" = "נמצאו %@ מרפאות";
+
+// MARK: - Calendar
+"WhenIsItConvenientToScheduleAnDigitalAppointment" = "מתי נקיים ביקור דיגיטלי,";
+"WhenIsItConvenientToScheduleAnClinicAppointment" = "מתי נקיים ביקור במרפאה,";
+
+>>>>>>> feature/AmericanWell
+
+// MARK: - Remind Appointment
+
+"RemindAppointmentTitle" = "הוספת תזכורת לתור";
+
+"RemindAppointmentDateTitle" = "תאריך תזכורת";
+"RemindAppointmentTimeTitle" = "שעת תזכורת";
+
+"RemindAppointmentByPhoneTitle" = "SMS-תזכורת ב";
+"RemindAppointmentByPhoneBottomTitle" = "מספר הטלפון נרשם לצורך התזכורת הזאת בלבד ואינו מעדכן את פרטי הלקוח";
+"RemindAppointmentByPhonePlaceholderTitle" = "טלפון";
+
+"RemindAppointmentByEmailTitle" = "תזכורת בדוא\"ל";
+"RemindAppointmentByEmailBottomTitle" = "תזכורת בדוא\"ל תשלח בשעה קבועה, בתאריך שנבחר ע\"י  המשתמש";
+"RemindAppointmentByEmailPlaceholderTitle" = "name@email.com";
+
+"RemindAppointmentByCalendarTitle" = "הוסף פגישה באפליקציית היומן במכשיר";
+<<<<<<< HEAD
+=======
+"CalendarPermissionsBody" = "כדי לשמור ביקור ביומן צריך הרשאות לשימוש ביומן. יש אישור ממך לשימוש ביומן?";
+>>>>>>> feature/AmericanWell
+
+"RemindAppointmentButtonTitle" = "הוספת תזכורת";
+
+"PickerViewDone" = "בוצע";
+"PickerViewCancel" = "ביטול";
+
+"RemindAppointmentWasFailed" = "הוספתת התזכורת נכשלה, אנא נסה שנית";
+"RemindAppointmentThankYou" = "תודה";
+"RemindAppointmentSuccessTitle" = "אנחנו נזכיר לך";
+<<<<<<< HEAD
+
+"YouHaveOrderedQueueToAppointment" = "תור שהוזמן ל";
+
+"RemindAppointmentSelectedWrongDateTitle" = "בחירת תאריך";
+"RemindAppointmentSelectedWrongDateValue" = "לא ניתן לבחור את ימי שישי ושבת";
+
+"RemindAppointmentCalendarPermissionsBody" = "כדי לשמור ביקור ביומן צריך הרשאות לשימוש ביומן. יש אישור ממך לשימוש ביומן?";
+
+// MARK: - Register appointment in waiting list
+
+"RegisterInWaitingListTitle" = "רישום לרשימת המתנה";
+=======
+"RemindAppointmentUnderstood" = "הבנתי";
+
+"YouHaveOrderedQueueToAppointment" = "תזכורת לתור שהוזמן ל";
+
+"RemindAppointmentSelectedWrongDateTitle" = "בחירת תאריך";
+"RemindAppointmentSelectedWrongDateValue" = "לא ניתן לבחור את ימי שישי ושבת";
+// MARK: - Calendar
+"When is it convenient to schedule an appointment" = "למתי נקבע את הביקור";
+// MARK: - Register appointment in waiting list
+
+"RegisterInWaitingListTitle" = "רישום לרשימת המתנה";
+"OrRegisterInWaitingListTitle" = "או רישום לרשימת המתנה";
+>>>>>>> feature/AmericanWell
+
+"RegisterInWaitingListFromDateTitle" = "החל מתאריך";
+"RegisterInWaitingListToDateTitle" = "עד תאריך";
+
+"RegisterInWaitingListButtonTitle" = "הרשמה";
+"RegisterInWaitingListInfoTitle" = "על השירות";
+"RegisterInWaitingListDescriptionTitle" = "שרות זה מאפשר לך להצטרף לרשימת המתנה לשרות רפואי אשר רשימת המוזמנים אליו מלאה. אנו נשלח מסרון למס' הטלפון הנייד אותו הזנת במידה שיתפנה תור בטווח התאריכים המבוקש. עם קבלת המסרון עליך להכנס למאוחדת אונליין ולסמן את התור הרצוי. לתשומת לב: השירות פועל בשיטת כל הקודם זוכה";
+
+"RegisterInWaitingListPhoneTitle" = "טלפון";
+"Thank you for signing up for the waiting list" = "תודה לך על שנרשמת לרשימת ההמתנה";
+
+// MARK: - Order Appointment
+"RemoveAppoinmentWaitnigListAlertTitle" = "ביטול תור";
+"orderNewAppointment" = "זימון תור חדש";
+"doctorsAppointmentsTabTitle" = "רופא";
+"laboratoryAppointmentsTabTitle" = "מעבדה";
+"TherapistTitle" = "מטפל";
+"SocialWorkerTitle" = "עובד סוציאלי";
+"PsychologistTitle" = "פסיכולוג";
+"DieticianTitle" = "דיאטנית";
+"Clinic" = "מרפאה";
+"MedicalCenter" = "בית חולים";
+"TheMedicalCenterDetails" = "פרטי בית החולים";
+"Surgeon" = "מנתח";
+<<<<<<< HEAD
+
+// MARK: - Remove Appointment
+
+"RemoveAppoinmentAlertTitle" = "ביטול תור";
+=======
+"OrderNewVideoAppointment" = "הביקור הדיגיטלי שלך";
+"videoAppointmentConcluding" = "סיכום תור וידאו";
+
+"ServiseArea" = "תחום שירות: %@";
+"AppointmentDay" = "ביום %@";
+"at %@" = "ב%@";
+"at %@ oclock" = "בשעה @%";
+"continue" = "המשך";
+"prefered communication way" = "באפליקציה או במחשב?";
+"the easy choice" = "הבחירה הקלה";
+"smartphone only" = "מומלץ!";
+"recomended choice" = "בחירה מומלצת";
+"the clinic appointment was succesfully orderd" = "התור במרפאה זומן בהצלחה";
+"mailAddingForDiary" = "הוספת תור ליומן";
+"the complex choice" = "קצת יותר מסובך:";
+"camera required, mic" = "צריך מצלמת רשת,";
+"internet connection" = "מיקרופון וחיבור לאינטרנט";
+"computer" = "מחשב";
+"how can we get in touch with you if nescesery?" = "איך נוכל ליצור איתך קשר במידת הצורך?";
+"ChangesOfEmailAndAddressDoNotAffect" = "מספר הטלפון וכתובת המייל ישמשו אותנו רק להודעות תזכורת לתור זה ולא יחליפו את פרטי המשתמש שלך אצלנו.";
+
+"ChangesOfEmailDoNotAffect" = "מספר הטלפון ישמש אותנו רק להודעות תזכורת לתור זה. הוא לא מחליף את פרטי המשתמש שלך אצלנו.";
+
+"in %@ %@, %@" = "ב%@ %@, %@";
+"in %@" = "ב%@";
+"%@ Km away" = "%@ ק\"מ ממך";
+"to %@" = "ל%@";
+"doc" = "ד\"ר";
+"CreateAppointmentError" = "אי אפשר לזמן תור כרגע, בגלל בעיה טכנית. מתנצלים ומזמינים אותך לנסות שוב מאוחר יותר או להתקשר למוקד 3833*";
+"UnautorizedOrdreOnlineAppointment" = "כדי לזמן ביקור דיגיטלי צריך להרשם לשירותי האונליין שלנו. לרישום עלייך לפנות לאחת ממרפאות מאוחדת.";
+// MARK: - Remove Appointment
+
+"RemoveAppoinmentAlertTitle" = "ביטול תור";
+"ChangeAppoinmentAlertTitle" = "שינוי תור";
+
+>>>>>>> feature/AmericanWell
+"RemoveAppointmentAlertBody" = "תור שנקבע ל%@ בתאריך %@ בשעה %@";
+
+"RemovePastAppoinmentAlertTitle" = "ביטול הרשמה";
+"RemovePastAppointmentAlertBody" = "הסרה מרשימת המתנה עבור %@ בין תאריכים %@ %@";
+
+// MARK: - Lobby navigation bar / Content
+
+"Loading." = "טוען.";
+"Loading.." = "טוען..";
+"Loading..." = "טוען...";
+"Loading...." = "טוען....";
+
+"lobbyInformationTitle" = "מאוחדת של";
+
+"LobbyMyTestsSectionTitle" = "הבדיקות שלי";
+
+// MARK: - Alerts
+"Print" = "הדפס";
+"Cancel Password Changes" = "ביטול שינוי סיסמה";
+"Are you sure you want to cancel changes?" = "בטוחים שאתם רוצים לבטל את השינוי?";
+<<<<<<< HEAD
+"ChooseMainClinic" = "נא לבחור מרפאה מרכזית";
+"Notice" = "התראה";
+=======
+>>>>>>> feature/AmericanWell
+"Cancel Changes" = "ביטול שינוי";
+"Continue Changes" = "המשך בשינוי סיסמא";
+"Please focus your search" = "אנא מקד את החיפוש";
+"Can`t received data from Server" = "ארעה שגיאה";
+<<<<<<< HEAD
+"Alert" = "התראה";
+=======
+>>>>>>> feature/AmericanWell
+
+// MARK - Locating Services
+
+"Name" = "שם";
+"DoctorSpecializations" = "תחום שירות";
+"TherapistsSpecializations" = "תחום שירות";
+"InstituteServiceAreas" = "תחום שירות";
+<<<<<<< HEAD
+=======
+"InstitutesSpecs" = "תחום שירות";
+"InstitutesSpecsHeader" = "תחומי שירות";
+>>>>>>> feature/AmericanWell
+"Region" = "איזור";
+"HospitalType" = "סוג בית חולים";
+"DentalClinicType" = "סוג מרפאת שיניים";
+"City" = "יישוב";
+"ResetForm" = "איפוס סינון";
+"SearchButtonTitle" = "איתור";
+"Languages" = "שפות";
+
+"PharmacieType" = "סוג בית מרקחת";
+"HospitleType" = "סוג בית חולים";
+"DentleClinicType" = "סוג מרפאת שיניים";
+"generalDetails" = "פרטים כלליים";
+<<<<<<< HEAD
+=======
+"doctorsDetails" = "פרטי רופא";
+>>>>>>> feature/AmericanWell
+"Clinic Details" = "פרטי מרפאה";
+"%@ details" = "פרטי ה%@";
+"Institute" = "מכון";
+"Pharmacy" = "בית מרקחת";
+"DentalClinic" = "מרפאת שיניים";
+
+
+// MARK: - Lobby View
+
+"Future Appointments" = "תורים שהזמנת";
+"schedulled Appointments" = "קבעת %@ תורים";
+"Share" = "שתף";
+
+"Lab Results" = "תוצאות מעבדה";
+"Appointment Referral" = "הפניות";
+"MedicalApprovals" = "אישורים רפואיים";
+"Appointment Apporvals" = "אישורים";
+"New Prescriptions" = "מרשמים חדשים";
+"Examination Results" = "תוצאות בדיקות";
+<<<<<<< HEAD
+"Tere are" = "קיימת";
+=======
+"Tere are" = "קיימת ";
+>>>>>>> feature/AmericanWell
+"Open Applications" = "פניות פתוחות";
+"You Have" = "יש לך";
+"New Messages" = "הודעות חדשות";
+"One New Message" = "הודעה חדשה אחת";
+
+// MARK: - Settings
+
+"Change Password" = "שינוי סיסמה";
+"Mailing Options Update" = "עדכון העדפות דיוור";
+"Authorized Family Members" = "הרשאות צפייה לבני משפחה";
+"Permission Not Existing" = "לא מורשה ע”\י המשתמש ";
+"Permission Existing" = "מורשה ע”\י המשתמש ";
+"Logout Personal Account" = "התנתקות מהאזור האישי";
+
+"Update Details" = "עדכון פרטים";
+"Edit" = "עריכה ";
+"For Patient " = "עבור ";
+"My Details" = "עדכון פרטי משתמש";
+"Send" = "שליחה";
+"Next" = "הבא";
+"Save" = "שמירה";
+"Cities" = "יישוב";
+"Id Number" = "מספר ת.ז";
+"Passport Number" = "מספר דרכון";
+"Email Address" = "כתובת דוא”\ל";
+"Do you want to update the permission for" = "אם ברצונך לעדכן את הרשאות\nהצפייה ל";
+"Update Permission" = "עדכון הרשאה";
+"Permission was Updated Successfully" = "ההרשאות עודכנו בהצלחה";
+"Failed to Update Permission" = "עדכון ההרשאות נכשל, נא נסה שנית או פנה לתמיכה ";
+"Mailing Settings Updated Successfully" = "עדכון העדפות הדיוור בוצע בהצלחה ";
+"Failed Updating Mailing Settings" = "עקב תקלה העדפות הדיוור לא עודכנו. אנא נסה שנית";
+<<<<<<< HEAD
+=======
+"Failed Order Magnetic Card" = "הזמנת כרטיס מגנטי נכשלה, ניתן לפנות למוקד 3833*";
+>>>>>>> feature/AmericanWell
+"Update User Details Successfully" = "שמרנו את הפרטים שלך";
+"Failed Updating User Details" = "עקב תקלה פרטי הלקוח לא עודכנו. אנא נסה שנית";
+"Area Code" = "קידומת";
+"Something wrong. Try later again" = "Something wrong. Try later again";
+
+"WrongPhoneNumberFormat" = "השדה צריך להכיל מספר טלפון חוקי";
+<<<<<<< HEAD
+"WrongEmailFormat" = "השדה דואר אלקטרוני חייב להכיל כתובת אימייל תקינה.";
+"Problem Connecting" = "בעיה בהתחברות";
+"At this time there was a problem changing the password" = "בעת הזו יש בעיה לשנות את הסיסמה, נסה שנית בקרוב";
+"Problem Opening App, Please call support" = "בעיה בפתיחת אפליקציית השתן, נא לפנות לתמיכה הטכנית";
+"MendtoryFiledsRequired" = "נא למלא שדות חובה מספר טלפון לקבלת מסרונים וכתובת דוא״ל תקינה";
+=======
+"WrongEmailFormat" = "השדה צריך להכיל כתובת מייל תקינה";
+"Problem Connecting" = "בעיה בהתחברות";
+"At this time there was a problem changing the password" = "בעת הזו יש בעיה לשנות את הסיסמה, נסה שנית בקרוב";
+"Problem Opening App, Please call support" = "בעיה בפתיחת אפליקציית השתן, נא לפנות לתמיכה הטכנית";
+>>>>>>> feature/AmericanWell
+
+// MARK: - enums
+// Gender
+"Gender" = "מין";
+"No Gender" = "אין נתונים";
+"Male" = "זכר";
+"Female" = "נקבה";
+"Other" = "אחר";
+
+// MARK: - SettingsDetailsFeildType
+"ID or Passport" = "מספר ת”ז / דרכון";
+"Private Name" = "שם פרטי";
+"Sur Name" = "שם משפחה";
+
+"City" = "ישוב";
+"Street" = "רחוב";
+"House Number" = "מספר בית";
+"Zip" = "מיקוד";
+"Home Phone" = "מספר טלפון בבית";
+"Additional Phone" = "מספר טלפון נוסף";
+"Phone For Messaging" = "מספר טלפון לקבלת מסרונים";
+"Email" = "דוא\"ל";
+
+// MARK: - SettingsDetailsFeildType Alerts
+
+"Receiving Message when Lab Results are ready" = "קבלת הודעה כאשר תוצאת מעבדה מוכנה";
+"Receiving Riminder when Appointment is due" = "קבלת תזכורת לתורים במרפאות מאוחדת";
+"Receiving Message on Alerts" = "קבלת הודעות על התראות";
+"Receiving Message on Insurance Policy Change" = "קבלת הודעות על שינויי ביטוחים";
+"Receiving Message on Payments" = "קבלת הודעות על תשלומים";
+"Receiving Meuhedet Magazine" = "קבלת מגזין מאוחדת";
+"Receiving Message on Other Issues" = "קבלת הודעות בנושאים שונים";
+"Receiving Message on Receiving Approvals" = "קבלת הודעות על בקשות לאישורים שונים";
+"Receiving Message for Preventive Medicine" = "קבלת הודעות בנושא רפואה מונעת";
+"Receiving Message on Administrative Messages" = "קבלת הודעות מנהליות";
+
+"SMS" = "מסרון";
+"Postal" = "דואר";
+"Please Mark your Prefered Mailing System" = "אנא סמנו את שיטת הדיוור המועדפת עליכם";
+
+"MailingOptionsServiceInfoTitle" = "שירותים אלו יופעלו בתהליך יישום מדורג.\nהעדפותייך נחוצות לצורך הפעלת השירותים בהמשך";
+// MARK: - Date
+"WeekDays" = "ימי קבלה";
+
+"January" = "ינואר";
+<<<<<<< HEAD
+"February" = "פבואר";
+=======
+"February" = "פברואר";
+>>>>>>> feature/AmericanWell
+"March" = "מרץ";
+"April" = "אפריל";
+"May" = "מאי";
+"June" = "יוני";
+"July" = "יולי";
+"August" = "אוגוסט";
+"September" = "ספטמבר";
+"October" = "אוקטובר";
+"November" = "נובמבר";
+"December" = "דצמבר";
+
+"DayInWeek" = "יום";
+" in " = " ב";
+"ToDate" = "עד";
+"Sunday" = "יום ראשון";
+"Monday" = "יום שני";
+"Tuesday" = "יום שלישי";
+"Wednesday" = "יום רביעי";
+"Thursday" = "יום חמישי";
+"Friday" = "יום שישי";
+"Saturday" = "יום שבת";
+
+// MARK: - Secretariat
+
+"Secretariat" = "מזכירות";
+"Temporary Appointment Approval" = "אישור זמני לביקור";
+"New Comitment Forms" = "טפסי התחייבות חדשים";
+"Valid till Date" = "תקף לתאריך";
+
+"LiabilityFormTitle" = "טפסי\nהתחיבות";
+"LiabilityFormTitleSingleLine" = "טפסי התחייבות";
+"OrderMagneticCardTitle" = "הזמנת כרטיס מגנטי";
+"OrderNewMagneticCardTitle" = "הזמנת כרטיס מגנטי";
+<<<<<<< HEAD
+=======
+"OrderNewmagneticCardSuuccess" = "כרטיס מגנטי הוזמן בהצלחה";
+>>>>>>> feature/AmericanWell
+"SelectCardToReorderTitle" = "בחירת כרטיס להזמנה מחדש";
+"LiabilityDetailsTitle" = "פרטי התחייבות";
+
+"NoLiabilityFormsWereFound" = "לא מצאנו טפסי התחייבות";
+"ViewingTemporaryCertificate" = "צפייה באישור";
+"SecretariatLiabilityCommitmentId" = "מספר התחייבות";
+"MagneticCardCanNotBeOrdered" = "לא ניתן לבצע הזמנת כרטיס מגנטי, הכרטיס האחרון שהוזמן טרם סופק";
+
+// MARK: - Appointment Information
+
+"locationTitleButton" = "איתור";
+"AppointmentRelevantedTabTitle" = "הכי מתאים";
+"We found for you" = "מצאנו לך";
+"FirstQueuesAppointmentTabTitle" = "תור ראשון";
+"AppointmentDistanceTabTitle" = "מרחק";
+"PharmaciesTypes" = "סוג בית מרקחת";
+
+"appointmentsFilterButtonTitle" = "סינון נוסף";
+<<<<<<< HEAD
+"AppointmentStatus" = "תור ראשון פנוי";
+=======
+"AppointmentStatus" = "התור הראשון הפנוי";
+>>>>>>> feature/AmericanWell
+
+"ChooseRoutingApplication" = "ניווט באמצעות";
+"filtering" = "סינון";
+"resetFilters" = "איפוס סינון";
+"acceptSubfilterButtonTitle" = "עדכן";
+"Found %@ %@" = "מצאנו %@ %@";
+"NotFound %@" = "לא מצאנו %@ בשבילך";
+"Did not found %@" = "לא מצאנו %@";
+"AppointmentsMapTabTitle" = "הצג במפה";
+<<<<<<< HEAD
+
+// MARK: - Appointments Approval
+
+"OrderedAppointment" = "התור זומן בהצלחה";
+=======
+"DisclaimerTitle" = "תנאי שימוש";
+
+// MARK: - Appointments Approval
+
+"OrderedAppointment" = "מצוין, קבענו!";
+>>>>>>> feature/AmericanWell
+"OrderedAppointmentButtonTitle" = "הוספת תזכורת";
+
+"CurrentAppointment" = "תור שהוזמן";
+"HistoryAppointment" = "תור בעבר";
+"WaitingAppointment" = "ברשימת המתנה";
+
+"AppointmentApprovalOnDate" = "בתאריך";
+<<<<<<< HEAD
+=======
+"AppointmentApprovalOnDay" = "ביום";
+"at" = "ב";
+>>>>>>> feature/AmericanWell
+"AppointmentApprovalCancelOnDate" = "טווח תאריכי התור";
+"AppointmentApprovalOnTime" = "בשעה";
+"AppointmentApprovalOnLocation" = "במרפאה בכתובת";
+
+"AddReminderToCurrentAppointment" = "הוספת תזכורת";
+"OrderNewAppointment" = "זימון תור חדש";
+<<<<<<< HEAD
+=======
+"OrderNewClinicAppointment" = "לתור למרפאה";
+>>>>>>> feature/AmericanWell
+"ChangeCurrentAppointment" = "שינוי תור";
+"CancelCurrentAppointment" = "התור בוטל בהצלחה";
+"CancelWaitingAppointment" = "התור בוטל בהצלחה";
+"CancelCurrentAppointmentButtonTitle" = "ביטול תור";
+"RemoveFromWaitnigListButtonTitle" = "הסירו אותי מרשימת המתנה";
+<<<<<<< HEAD
+
+"Reminder" = "הודעה";
+"ReminderCalendarSuccess" = "תזכורת נוספה באפליקציית היומן במכשירך בהצלחה";
+
+=======
+"Reminder" = "הודעה";
+"ReminderCalendarSuccess" = "תזכורת נוספה באפליקציית היומן במכשירך בהצלחה";
+"goToWaitingRoomDoor" = "המשיכו לדלת חדר המתנה";
+"goToVisitRoom" = "המשיכו לחדר ביקור";
+>>>>>>> feature/AmericanWell
+
+// MARK: - Appointment details
+
+"AppointmentDetailsAbbreviation" = "תואר";
+"AppointmentDetailsName" = "רופא";
+"AppointmentDetailsNameLicense" = "מספר רשיון";
+"AppointmentDetailsSpecialistCert" = "מומחיות";
+
+"AppointmentDetailsSpecialization" = "תחום שירות";
+"AppointmentDetailsSecSpecialization" = "תחום שירות משני";
+
+"AppointmentDetailsClinicName" = "שם מרפאה";
+"AppointmentDetailsInternalExternal" = "סוג מרפאה";
+"AppointmentDetailsAddress" = "כתובת מרפאה";
+"AppointmentDetailsLocationExplanation" = "הערת מיקום";
+"AppointmentDetailsOwn" = "שייך למאוחדת";
+"AppointmentDetailsTimesQueue" = "שעות קבלה";
+"AppointmentDetailsVacation" = "הערות זמינות";
+"AppointmentDetailsPhoneNumber" = "טלפונים";
+"AppointmentDetailsFaxNumber" = "פקס";
+"AppointmentDetailsRemarks" = "הערות";
+"AppointmentDetailsQueueDateTime" = "תור קרוב לרופא";
+
+
+// MARK: - Medications Lobby
+
+"MedicationsLobbyTitle" = "התרופות שלי";
+
+"RegularMedcations" = "תרופות קבועות";
+"RegularMedcationsFound" = "נמצא תרופות קבועות";
+"HaveFoundMedicalHistory" = "נמצאה היסטוריית תרופות. בנוסף באפשרותך להזין בקשה לעוד תרופות שלא נמצאות ברשימה בשדה הטקסט החופשי";
+"PurchasedMedications" = "פריטים שרכשת";
+"DiscountMedications" = "אישורי תרופות";
+
+"VisitsDate" = "תאריך הביקור";
+"PrescriptionsTitle" = "מרשמים דיגיטליים";
+"medicineDisclaimerText" = "הרכישה בבתי מרקחת בהתאם לנקוב במרשם, לא יינתן החזר בגין רכישה בבתי מרקחת שלא בהתקשרות עם הקופה";
+
+// MARK: - Medications Approvals
+
+"RequestDoctorTitle" = "רופא מבקש:";
+"CommentsTitle" = "הערות גורם מאשר:";
+
+"MedicationApprovalStatusApprovedTitle" = "פריט מאושר";
+"MedicationApprovalStatusRejectedTitle" = "נדחה";
+
+"MedicationApprovalRequestDoctorTitle" = "סטטוס:";
+"MedicationApprovalStatusActive" = "פעיל";
+"MedicationApprovalStatusDeclined" = "פג תוקף";
+"MedicationApprovalStatusExpired" = "נדחה";
+"SubjectToMedicalApprovalOrInsuranceStatus" = "מותנה באישור רפואי או סטטוס ביטוחי";
+
+"MedicationApprovalExpirationDate" = "תאריך תום תוקף אישור:";
+
+"MedicationApprovedDiscountDescription" = "השתתפות מבוטח";
+"MedicationRejectedDiscountDescription" = "אחוז השתתפות מבוטח:";
+
+// MARK: - Medications Permanents
+
+
+"MedicationPermanentsLastPurchaseDateTitle" = "תאריך רכישה אחרון:";
+"MedicationPermanentsFirstPurchaseDateTitle" = "תאריך רכישה ראשון:";
+
+"MedicationPermanentsPurchasesQuantityTitle" = "כמות רכישות";
+<<<<<<< HEAD
+
+// MARK: - Medications Purchased
+"Found %@ purchasedItems" = "מצאנו עבורך %@ פריטים עדכניים שרכשת";
+=======
+"Found %@ purchasedItems" = "מצאנו עבורך %@ פריטים עדכניים שרכשת";
+
+// MARK: - Medications Purchased
+
+>>>>>>> feature/AmericanWell
+"MedicationPurchasedTitle" = "תרופות שנרכשו";
+
+"MedicationUnitsPurchased" = "כמות בודדים";
+"MedicationPackagesPurchased" = "כמות אריזות";
+
+"MedicationPharmacyTitle" = "שם בית מרקחת:";
+"MedicationSignatureTitle" = "חתימה אלקטרונית:";
+"HasMedicationSignature" = "קיימת";
+"HasNoMedicationSignature" = "לא קיימת";
+
+"MedicationPurchasedDetailTitle" = "תרופות מפורטות";
+"MedicationPurchasedConcetratedTitle" = "תרופות מרוכזות";
+
+"MedicationPurchasedDate" = "תאריך רכישה:";
+
+// MARK: - Medications Empty View
+
+"MedicationsNoDataTitle" = "לא בוצעו רכישות קודמות";
+"NoDigitalPrescriptionsFound" = "לא מצאנו מרשמים דיגיטליים";
+"NoDigitalPrescriptionsApprovalsFound" = "לא מצאנו אישורי תרופות";
+"MedicationPurchasedTitle" = "תרופות שנרכשו";
+"PurchasedItemsNotFound" = "לא מצאנו פריטים שרכשת";
+"NoDigitalPrescriptionsMedicationPurchased" = "לא מצאנו אישורי תרופות";
+"RegularMedcationsNotFound" = "לא מצאנו תרופות קבועות";
+
+// MARK: - Reception times queue
+
+"OrderTimeOfAppointment" = "זימון";
+"ReceptionToTheWaitingList" = "צרפו אותי לרשימת המתנה";
+"ReceptionListHeaderView" = "רשימת תורים";
+"ReceptionTimesButton" = "זמני קבלה";
+"ReplaceDoctorButton" = "רופא מחליף";
+
+"AvailableReceptionTimesDoesntExists" = "לא מצאנו תורים בתחום המבוקש";
+"AppointmentChangeTimeError" = "עדכון התור נכשל, אנא נסה שנית, או פנה למוקד שירות הלקוחות";
+
+// MARK: - LaboratoryResults
+
+"LaboratoryResultsLobbyTitle" = "מפנה: ";
+"LaboratoryResultsCustomerIdentifier" = "תעודת זהות";
+"LaboratoryResultsCustomerName" = "לקוח";
+"LaboratoryResultsCustomerBD" = "תאריך לידה";
+"LaboratoryResultsCustomerPhone" = "טלפון";
+"LaboratoryResultsDoctorLicenceNumber" = "רשיון";
+"LaboratoryResultsLaboratoryTestDate" = "תאריך בדיקה";
+
+"LaboratoryResultsFilterTitle" = "תוצאות";
+"LaboratoryResultsFilterSubTitle" = "הצג תוצאות חריגות";
+"LaboratoryResultsPercentageTitle" = "תוצאות הבדיקות למדבקה מספר";
+
+"LaboratoryResultsHistoryTitle" = "היסטוריית בדיקת מעבדה";
+
+"LaboratoryResultsFilteringDataNotFound" = "אין תוצאות חריגות";
+"LaboratoryResultsMeasureUnitTitle" = "יחידת מידה";
+"LaboratoryResultsTitle" = "תוצאה";
+
+"LaboratoryResultsStickerId" = "מספר מדבקה:";
+
+// MARK: - Units of measure
+
+<<<<<<< HEAD
+"km" = "ק\"מ ממך";
+=======
+"kmFromYou" = "ק\"מ ממך";
+"km" = "ק\"מ";
+>>>>>>> feature/AmericanWell
+
+"Search" = "חיפוש";
+
+"Valid till:" = "בתוקף עד:";
+<<<<<<< HEAD
+"Request for a Temporary Appointment" = "בקשת אישור זמני לביקור";
+=======
+"Request for a Temporary Appointment" = "בקשת אישור זמני\n לביקור";
+>>>>>>> feature/AmericanWell
+
+"Confirmation for" = "אישור עבור";
+"Id or Passport Number" = "תעודת זהות";
+"Confirmation Number" = "מספר האישור";
+"Confirmation Validation Date" = "האישור תקף עד חצות";
+"All is OK, Currently No Forms" = "הכל בסדר, אין טפסים כרגע";
+
+
+"Patient Participation" = "השתתפות עצמית";
+"Financial Commitment for Institute/lab" = "התחייבות כספית למכון/מעבדה";
+
+"Payment Invoice" = "אישור תשלום";
+"Date" = "תאריך";
+"Service Provider" = "נותן השירות";
+"Patient\nParticipation" = "השתתפות\nעצמית";
+"Commitment Number" = "מספר התחייבות";
+"Quantity" = "כמות";
+
+"Adif" = "עדיף";
+"Sie" = "שיא";
+
+"Son" = "בן";
+"Daughter" = "בת";
+"Husband" = "בעל";
+"Wife" = "אשה";
+"Father" = "אבא";
+"Mother" = "אמא";
+"Me" = "אני";
+
+"Can Not Order Magnetic-Card, the Last Card Ordered is still proccessing" = "לא ניתן לבצע הזמנת כרטיס מגנטי, הכרטיס האחרון שהוזמן טרם סופק";
+"No Card Status" = "לא חזר סטטוס כרטיס";
+"Before Sending to Provider" = "לפני שליחה לספק";
+"Provider Printing" = "בהדפסה אצל הספק";
+"Sent to Customer" = "נשלח ללקוח";
+"Card Active" = "פעיל";
+"Card Canceled" = "בוטל";
+"Last Card Number" = "מספר כרטיס אחרון";
+"Magnetic Card Date Order" = "תאריך הזמנת כרטיס";
+
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> feature/AmericanWell
+"Watch Confirmation" = "צפייה באישור";
+
+"IDNumber" = "תעודת זהות";
+"Relationship" = "קרבה";
+"Card Type" = "סוג כרטיס";
+"Confirmation Order Magnetic Card" = "אישור הזמנת כרטיס מגנטי";
+"Confirmation Validity" = "תוקף האישור";
+"Please Keep the approval till Receiving the Magnetic Card Edition %@.\nAny Card Under Edition %@ is not Valid" = "נא לשמור על האישור עד לקבלת כרטיס מגנטי מהדורה %@.\nכל כרטיס מגנטי מתחת למהדורה %@ אינו תקף.";
+"Card Order For" = "הזמנת כרטיס ל";
+"TemporaryCardFor" = "הנפקת אישור זמני ל";
+"Card Order" = "הזמנת כרטיס";
+
+"TeudatZeut %@" = "ת.ז.: %@";
+
+"IssuingMagneticCardWillCostTotalFormat" = "לידיעתך, הזמנת כרטיס כרוכה באגרה\n של 16 ש”\ח, שתיגבה דרך הוראת הקבע. לא ניתן להזמין כרטיס ללא הוראת קבע. \nביטול הזמנת כרטיס ייעשה מול מזכירות הסניף. במידה וקיימת הזמנה לכרטיס, לא ניתן לבצע הזמנה חוזרת";
+
+"IssueTemporaryCard" = "אישר לביקור ללא כרטיס מגנטי. אישור זה תקף עד חצות, יש להציג את מספר האישור לרופא המטפל בזמן הביקור ";
+
+"Issue Card" = "הנפקת אישור";
+
+"Select Family Member" = "בחירת בן משפחה";
+
+"Doctors" = "רופאים";
+"Clinics" = "מרפאות";
+"Institutes" = "מכונים";
+"Pharmacies" = "בתי מרקחת";
+"Emergency\nCenters" = "מוקדי\nחירום";
+"DentalClinics" = "מרפאות שיניים";
+"SocialWorkers" = "עבודה סוציאלית";
+"MeuhedetSupplementary" =  "מאוחדת משלימה";
+"Laboratories" = "שירותי מעבדה";
+"Psychologist" = "פסיכולוגים";
+"Dieticians" = "דיאטניות";
+"Family\nHealth Center" = "טיפת\nחלב";
+<<<<<<< HEAD
+"InfantCare" = "טיפת חלב";
+"NurseryClinics" = "אחיות";
+"NurseryClinic" = "אחיות";
+=======
+"Surgeons" = "מנתחי סל הבריאות";
+"InfantCare" = "טיפת חלב";
+"NurseryClinics" = "אחיות";
+"NurseryClinic" = "מרפאת אחיות";
+>>>>>>> feature/AmericanWell
+"MedicalCenters" = "בתי חולים";
+"EmergencyMedicine" = "רפואה דחופה";
+"SingleEmergencyMedicine" = "מוקד חירום";
+"EmergencyMedicineDetails" = "פרטי מוקד החירום";
+"EmergencyMedicineType" = "סוג מוקדי חירום";
+"InstitutesName" = "שם מכון";
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> feature/AmericanWell
+// MARK - Online Application
+
+"Family Physician" = "רופא משפחה";
+"Gynecologist" = "רופא נשים";
+"Pediatrician" = "רופא ילדים";
+"Your Attention" = "לתשומת ליבכם";
+"RequestDisclaimerTextFirstLine" = "הבקשה תטופל על פי שיקול דעת רפואי ויתכן ותידרש בדיקה במרפאה לצורך מימושה";
+"RequestDisclaimerTextSecondLine" = "בשירות זה מוצגים הרופאים הרשומים לשירות. אליהם ניתן לפנות בנושאים לא דחופים, שלא נדרשת עבורם בדיקת רופא. כל בקשה מטופלת על פי שיקול דעת רפואי וייתכן כי הרופא יחליט לזמן אותך למרפאה. מענה רופא משפחה וילדים יינתן תוך 4 ימי עבודה ורופא הנשים תוך 5 ימי עבודה הבקשות מתועדות כלשונן בתיקך הרפואי";
+
+
+
+"Add a Prescription" = "בקשת מרשם +";
+"Add a referral" = "בקשה להפניה +";
+"Add an Approval" = "בקשת אישור +";
+"Requests" = "בקשות";
+"Prescription" = "מרשמים";
+"Appointment" = "הפניות";
+"Approval" = "אישורים";
+"New Application" = "פנייה חדשה";
+"Other Medication" = "תרופות אחרות";
+"Referral Details" = "פרטי הפניות";
+"Characters" = "תווים";
+"Your contact details are missing or incorrect.\nYou can update them here" = "פרטי ההתקשרות שלך חסרים או שגויים?\nניתן לעדכן אותם כאן";
+"A mobile phone or e-mail address is valid for this call only" = "עדכון טלפון נייד או כתובת דואר אלקטרוני תקף לפנייה זו בלבד";
+
+<<<<<<< HEAD
+"To" = "אל";
+"Mobile Number" = "טלפון";
+=======
+"to %@ %@" = "ל%@ %@";
+"Mobile Number" = "אפליקציה";
+>>>>>>> feature/AmericanWell
+"The application will be processed within one business day" = "ההפנייה תטופל תוך יום עסקים אחד";
+"The application will be processed within" = "ההפנייה תטופל בתוך";
+"business days" = "ימי עסקים";
+"References to my Physician" = "פניות לרופא שלי";
+"Attached\nDocuments" = "מסמכים\nשצורפו";
+"Requests for Renewal of Prescriptions" = "בקשות לחידוש מרשמים";
+"Referral requests" = "בקשות להפניות";
+"Requests for approvals" = "בקשות לאישורים";
+"Attached Documents" = "מסמכים שצורפו";
+"Pending Applications" = "פניות ממתינות לרופא";
+"Requests Handled" = "פניות שטופלו";
+"From Date:" = "החל מתאריך:";
+"To Date:" = "עד תאריך:";
+"Date of submission:" = "תאריך הגשת פנייה:";
+"Date of Application Close" = "תאריך סגירת הפנייה";
+"From" = "מאת";
+"No Closed Online Applications Found" = "לא מצאנו פניות סגורות";
+"No Online Applications Found" = "לא ממתינות פניות";
+"Did Not Find Open Applications" = "לא נמצאו פניות ממתינות לרופא";
+"Did Not Find Closed Applications" = "לא נמצאו פניות סגורות";
+"No " = "";
+"Successfully sent the Application" = "הפנייה נשלחה בהצלחה";
+"Application Submission Failure" = "בעיה בשליחת הבקשה";
+"Due to malfunction, your application was not successfully submitted, please try again" = "עקב תקלה לא נרשמה הפנייה לרופא. אנא נסה שנית";
+"NoPermanentMedication" = "לא נמצאה היסטוריית תרופות. באפשרותך להזין את בקשתך בשדה הטקסט החופשי";
+
+"Wrong Email Address" = "כתובת אימייל שגוי";
+"Wrong Phone Number" = "מספר טלפון שגוי";
+
+
+
+"Approval of illness" = "אישור מחלה";
+"Child Approval of illness" = "אישור מחלת ילד";
+"Approval for Education Intitute" = "אישור מחלה לבי”ס\גן";
+"Pregnancy Approval" = "אישור הריון";
+"Closed Application" = "פנייה שטופלה";
+"Select All" = "בחר הכל +";
+"Unselect All" = "בטל הכל -";
+
+// MARK: - Error ViewController
+"The Request Failed" = "הבקשה נכשלה";
+"Somthing went Wrong" = "אופס, משהו השתבש";
+"Go Back and Try Again" = "חזרו אחורה ונסו שוב";
+"No Records Found" = "לא מצאנו רשומות";
+
+
+// MARK - MEDICAL Examinations
+
+"Urine Home Test" = "בדיקת שתן ביתית";
+"Medical Institute Test Results" = "א.ק.ג\nומכונים";
+"Results by Examination" = "היסטוריית בדיקות\nמעבדה";
+"Pregnancy Test" = "מגן הריון";
+"Test Date" = "תאריך בדיקה";
+<<<<<<< HEAD
+"Institute Test Results" = "א.ק.ג מכונים";
+=======
+"Institute Test Results" = "בדיקות מכונים";
+>>>>>>> feature/AmericanWell
+"Pregnancy Test Results" = "תוצאות בדיקות הריון";
+"Full Medical Summary" = "תקציר תיק רפואי";
+"Full Medical\nSummary" = "תקציר תיק\nרפואי";
+"Medical File" = "תיק רפואי";
+"My Medical File" = "התיק הרפואי שלי";
+"Vaccines" = "חיסונים";
+"No Vaccines Found" = "לא נמצאו חיסונים";
+"Medication purchased Recently" = "תרופות שנרכשו לאחרונה";
+"Recent Appointments" = "תורים אחרונים";
+"Latest ECG Examinations" = "בדיקות א.ק.ג אחרונות";
+"Institute Examinations" = "בדיקות מכונים";
+"Pregnancy Protective" = "בדיקות מגן להריון";
+"Laboratory Test Results" = "תוצאות בדיקות מעבדה";
+"Vaccine List" = "רשימת חיסונים";
+"Last Purchased on" = "תאריך רכישה אחרון";
+"Purchased on" = "תאריך רכישה";
+"FirstPurchased on" = "תאריך רכישה ראשון";
+"Unit Count" = "כמות בודדים";
+"Package Quantity" = "כמות אריזות";
+"Purchased Quantity" = "מספר רכישות";
+"Generic Family" = "משפחה";
+"Executed at Family Health Center" = "במסגרת טיפת חלב";
+"Not done at Family Health Center" = "לא במסגרת טיפת חלב";
+"Item Code" = "קוד פריט";
+"Done On" = "בוצע בתאריך";
+"Visit Date" = "מועד הביקור";
+"Physician" = "רופא";
+"My Examinations" = "הבדיקות שלי";
+"Medical Summery" = "מידע רפואי";
+"ECG" = "אק”\ג";
+"Doctor Refering" = "רופא מפנה";
+"Test Result for Sticker Number" = "תוצאות הבדיקות למדבקה מספר";
+"Test Description" = "סוג בדיקה";
+"No Medical Examinations Detected" = "לא מצאנו בדיקות רפואיות";
+"Vaccine Disclemerator" = "החיסונים המוצגים ניתנו במסגרת מאוחדת בלבד";
+
+<<<<<<< HEAD
+"InstitutePrescritpionTitle" = "שם המכון:";
+
+
+// MARK: - Odoro
+
+"Preliminary Questionnaire for Determining the Queue" = "שאלון מקדים לקביעת התור";
+"No Dates where Detected for Determine of an Appointment" = "לא אותרו מועדים אפשריים לקביעת התור לרופא";
+"Thank you, we have scheduled an appointment" = "תודה - קבענו עבורך תור במועד שבחרת";
+"Determining the Queue" = "קביעת התור";
+"ShortExplanationOnTheProcess" = "הסבר קצר על התהליך:\nעל מנת להתאים את זמן הרופא לצורך הרפואי\nעליך להשיב על מספר שאלות\n\n";
+
+=======
+>>>>>>> feature/AmericanWell
+// MARK: - Urine Test
+"Cannot find an Open Referral" = "לא אותרו הפניות פתוחות ללקוח";
+"Sticker" = "מדבקה";
+"NoHistoryLabResults" = "לא מצאנו היסטוריית בדיקות מעבדה";
+
+// MARK - Date
+// static time-ago
+"1 year ago" = "שנה שעברה";
+"Last year" = "שנה שעברה";
+"2 years ago" = "לפני שנתיים";
+"1 month ago" = "לפני חודש";
+"Last month" = "לפני חודש";
+"2 months ago" = "לפני חודשיים";
+"2 weeks ago" = "לפני שבועיים";
+"1 week ago" = "שבוע שעבר";
+"2 days ago" = "לפני יומיים";
+"1 day ago" = "אתמול";
+"Yesterday" = "אתמול";
+"2 hours ago" = "לפני כשעתיים";
+"1 hour ago" = "לפני שעה";
+"An hour ago" = "לפני שעה";
+"1 minute ago" = "לפני דקה";
+"A minute ago" = "לפני דקה";
+"Just now" = "עכשיו";
+
+
+
+// formatted time-ago
+"%d years ago" = "לפני %d שנים";
+"%d months ago" = "לפני %d חודשים";
+"%d weeks ago" = "לפני %d שבועות";
+"%d days ago" = "לפני %d ימים";
+"%d hours ago" = "לפני %d שעות";
+"%d minutes ago" = "לפני %d דקות";
+"%d seconds ago" = "לפני %d שניות";
+
+
+
+// MARK: - Alert buttons stadard titles
+
+"Approved" = "אושרה";
+"Rejected" = "לא אושרה";
+"OK" = "אישור";
+"Close" = "סגירה";
+"Cancel" = "ביטול";
+"Done" = "בוצע";
+"ErrorTitle" = "בעיה בשליחה או קבלה של נתונים";
+"ErrorBody" = "לא ניתן לשלוח בקשה זו לשרת, נסה מאוחר יותר";
+"No Error" = "תקין";
+<<<<<<< HEAD
+"understand" = "הבנתי";
+=======
+>>>>>>> feature/AmericanWell
+// MARK - Clinic Type Strings
+
+"UnifiedClinicTitle" = "מרפאת מאוחדת";
+"IndependentClinicTitle" = "מרפאה עצמאית";
+
+<<<<<<< HEAD
+=======
+// MARK - American Well
+"VisitFor" = "של";
+"ChangePlatformTitle" = "שינוי פלטפורמה";
+"ChangePlatformBody" = "האם ברצונך לבצע את שיחת הוידאו עם הרופא באמצעות";
+"ChangePlatform" = "שנה";
+
+"RemoveAppointmentAlertAWVisitBody" = "לא נוכל לבטל את התור הנוכחי לפני שייקבע תור חדש. רוצה לשנות את מועד הביקור?";
+
+"CancelAWVisit" = "לא רוצה לשנות";
+"changeAWVisit" = "רוצה לשנות";
+
+"ExitAppointmentRoomDoorBody" = "לקוח יקר, האם ברצונך לצאת מחדר הביקור?";
+"ExitAppointmentRoomDoorTitle" = "שים לב";
+"ExitAppointmentRoomDoor" = "יציאה";
+"maxFileUsedConfirm" = "הבנתי";
+"maxFileUsedBody" = "אפשר לצרף רק עד %@ קבצים";
+"FileBigError" = "הקובץ שלך גדול מדי אפשר להעלות רק קבצים ששוקלים פחות מ-5MB";
+"DocTitleAndName" = "הרופא %@ %@";
+"CannotProcedureCameraBody" = "כדי לקיים את הביקור הדיגיטלי, צריך להפעיל הרשאות לשימוש במצלמה, ברמקול ובמיקרופון, ולהעלאת תמונות ומסמכים. יש אישור ממך להפעיל הרשאות?";
+"CannotProcedurePhotoLibraryBody" = "כדי להעלות קבצים לביקור הדיגיטלי צריך להפעיל הרשאות לשימוש בגלריה של המכשיר. יש אישור ממך?";
+
+"SettingsConfirm" = "הגדרות";
+"ConfirmCancel" = "הבנתי";
+
+"CannotProcedure" = "הרשאות";
+"payAttention" = "שים לב ";
+
+"ReasonTextViewPlaceholderText" = "מהי סיבת הביקור?";
+
+"normalPlatformChoosedText" = "בחרת לקיים את הביקור הדיגיטלי באפליקציה (מומלץ!). אנחנו מחכים לך שם. רוצה לקיים את הביקור במחשב? – עליך לבחור זאת מחדש בשינוי התור.";
+"normalPlatformWebChoosedText" = "בחרת לקיים את הביקור הדיגיטלי במחשב. אנחנו מחכים לך שם. רוצה לקיים את הביקור באפליקציה? – עוד יותר טוב. עליך לבחור זאת מחדש בשינוי התור.";
+
+"The integrity check has not yet been performed" = "טרם בוצעה בדיקת תאימות";
+"TheIntegrityCheckHasBeenPerformed" = "בוצעה בדיקת תאימות";
+"Performed an integrity checked" = "טרם בוצעה בדיקת תאימות";
+"Skip" = "דלג";
+"Continue" = "המשך";
+"ErrorUploadDocumentTitle" = "שגיאה בהעלאת קבצים";
+"ErrorUploadDocumentBody" = "קבצים נכשלו בהעלאה מחוסר התאמה";
+"Finish" = "סיום";
+"WaitingRoomWithoutDocumentBody" = "בטוח שאין לך קבצים רלוונטיים להעלות כאן? זוהי ההזדמנות האחרונה לצרף אותם...";
+"WaitingRoomWithoutDocumentCancel" = "אין לי מסמכים";
+"WaitingRoomWithoutDocumentOK" = "יש לי מסמכים";
+
+
+"AddDocPayAttention" = "שים לב,";
+"AddDocText" = "הינך מועבר לחדר המתנה לרופא, אנא וודא שהעלית את כל המסמכים הרלוונטים עבורך לבדיקה. לא ניתן יהיה להעלות מסמכים נוספים בחדר ההמתנה.";
+
+"AWVisitErrorTitle" = "שגיאה בכניסה לביקור";
+"AWVisitErrorBody" = "אנחנו לא מצליחים לקיים את הביקור כמו שצריך בגלל בעיה טכנית %@. אם נשארו נושאים שלא טופלו בפגישה, ממליצים לפנות למוקד 3833* ולקבוע תור המשך";
+"WaitingTimeIsOne" = "המספר הזה מתייחס רק ללקוחות מאוחדת. יכול להיות שממתינים בתור גם לקוחות קופות חולים אחרות";
+"WaitingTimeMorThenOne" = "המספר הזה מתייחס רק ללקוחות מאוחדת. יכול להיות שממתינים בתור גם לקוחות קופות חולים אחרות. כשהספרה תתחלף לאחד, נשלח לך תזכורת ב-SMS";
+"WaitingOneBeforeText" = "ממתין לפניך בתור";
+
+//// MARK: - American Well End Visit
+"UnknownError" = "אנחנו לא מצליחים לקיים את הביקור כמו שצריך בגלל בעיה טכנית . ממליצים לפנות למוקד *3833 ולקבוע תור חדש";
+"VisitDeclined" = "אנחנו לא מצליחים לקיים את הביקור כמו שצריך בגלל בעיה טכנית . ממליצים לפנות למוקד *3833 ולקבוע תור חדש";
+"VisitTransferred" = "אנחנו לא מצליחים לקיים את הביקור כמו שצריך בגלל בעיה טכנית . ממליצים לפנות למוקד *3833 ולקבוע תור חדש";
+"PostVisitTransfer" = "אנחנו לא מצליחים לקיים את הביקור כמו שצריך בגלל בעיה טכנית . ממליצים לפנות למוקד *3833 ולקבוע תור חדש";
+"VisitExpired" = "הביקור שלך הסתיים בהצלחה";
+"VisitEnded" = "הביקור שלך הסתיים בהצלחה";
+"ProviderUnavailable" = "הרופא שלך לא מצליח להתחבר. מתנצלים, ומבקשים ממך לפנות למוקד *3833 כדי לקבוע תור חדש";
+"ProviderCancel" = "אנחנו לא מצליחים לקיים את הביקור כמו שצריך בגלל בעיה טכנית . ממליצים לפנות למוקד *3833 ולקבוע תור חדש";
+"ProviderDisconnect" = "הרופא שלך לא מצליח להתחבר. מתנצלים, ומבקשים ממך לפנות למוקד *3833 כדי לקבוע תור חדש";
+"ProviderEnd" = "הביקור שלך הסתיים בהצלחה";
+"ConnectionFailed" = "אנחנו לא מצליחים לקיים את הביקור כמו שצריך בגלל בעיה טכנית . ממליצים לפנות למוקד *3833 ולקבוע תור חדש";
+"PermissionsError" = "אנחנו לא מצליחים לקיים את הביקור כמו שצריך בגלל בעיה טכנית . ממליצים לפנות למוקד *3833 ולקבוע תור חדש";
+"ConsumerCancel" = "הביקור שלך הסתיים בהצלחה";
+"ConsumerDisconnect" = "אנחנו לא מצליחים לקיים את הביקור כמו שצריך בגלל בעיה טכנית . ממליצים לפנות למוקד *3833 ולקבוע תור חדש";
+"ConsumerEnd" = "הביקור שלך הסתיים בהצלחה";
+"ConnectionToVideoHostFailed" = "אנחנו לא מצליחים לקיים את הביקור כמו שצריך בגלל בעיה טכנית . ממליצים לפנות למוקד *3833 ולקבוע תור חדש";
+"BackgroundTimeLimitExceeded" = "אנחנו לא מצליחים לקיים את הביקור כמו שצריך בגלל בעיה טכנית . ממליצים לפנות למוקד *3833 ולקבוע תור חדש";
+"AWTimeExpairedError" = "השהות בחדר ההמתנה מתארכת מעבר למתוכנן. לצערנו, אנחנו נאלצים לקטוע את ההמתנה ולבטל את התור. מתנצלים ומזמינים אותך לקבוע תור חדש ומהיר במוקד שלנו, 3833*";
+
+
+//// MARK: - connection words
+"To " = "ל";
+
+>>>>>>> feature/AmericanWell
+// MARK - Version
+
+"skipAppVersion" = "דלג";
+"updateAppVersion" = "עדכן";
+
+<<<<<<< HEAD
+=======
+"congratsWithUpdate" = "התחדשנו!";
+"WeLikeToGetBetterForYou" = "אנחנו אוהבים להשתפר \nבשבילכם ♥";
+"calendarUpdateInfotitle" = "יומן קביעת תורים יעיל ונוח";
+"laboratoryUpdateInfotitle" = "תוצאות בדיקות נשלחות למייל ול- WhatsApp בקובץ PDF, להדפסה";
+"cameraUpdateInfotitle" = "הביקור הדיגיטלי החדשני שלנו, כרגע בגרסת פיילוט עם מספר מצומצם של רופאים (התחילו להתכונן למהפכה!)";
+
+>>>>>>> feature/AmericanWell
+// MARK - Remove old app of Meuhedet message
+
+"FirstLaunchTitleAndMessage" = "תתחדשו!\n\nבאפליקציית מאוחדת הישנה כבר אי אפשר להשתמש. אל תשכחו למחוק אותה.";

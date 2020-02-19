@@ -7,8 +7,6 @@ Alertable - protocol extension for UIAlertController
 - Action buttons will be created automatically
 - Call method self.showAlert(...
 
-Also you can use SPM to install (https://github.com/SergeyPetrovi4/Alertable/blob/master/README.md)
-
 Usage: 
 
 ```
